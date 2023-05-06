@@ -1,0 +1,54 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@500&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Roboto', sans-serif;
+}
+
+.title{
+    font-family: 'Roboto', sans-serif;
+    margin-top: 10px;
+    color: white;
+    font-size: 50px;
+    text-align: center;
+}
+
+.desc{
+    color: white;
+    font-size: 40px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    text-align: justify;
+}
+
+p{
+    font-size: 30px;
+    color: black;
+    margin-left: 110px;
+    margin-top: 10px;
+}
+
+.card{
+    background-color: rgb(49,47,61);
+    border-color: black;
+}
+
+.card-title{
+    text-align: center;
+    color: dimgray;
+}
+
+.card-text{
+    font-size: 16px;
+    color: white;
+    text-align: center;
+}
+
+.titlecar{
+    margin-top: 20px;
+}
+
+.footer{
+    color: white;
+    font-size: 30px;
+}
